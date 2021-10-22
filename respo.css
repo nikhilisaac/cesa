@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    color: white;
+    display: block;
+    padding: 3px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
+#shoe-cards{
+    flex-direction: column;
+}
+#home p{
+    font-size: 34px;
+}
+.h-primary{
+    font-size: 28px;
+}
